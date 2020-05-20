@@ -21,7 +21,7 @@ Score = 1 – error
 
 # Final_Train.xlsx
 Contains the labelled texts with the Degrees, City, Locations and various other attributes.
-# test.csv
+# Final_Test.xlsx
 test.csv contains texts with some attributes for which the participants are expected to predict the consultance fees.
 # Sample_submission.csv
 Sample_submission.csv contains the submission format for the prediction of the consultance fees in xlsx extension.
