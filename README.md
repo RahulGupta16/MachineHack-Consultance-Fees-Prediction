@@ -1,4 +1,8 @@
 # MachineHack-Consultance-Fees-Prediction
+
+![consultance2019-07-22-at-11 00 58-PM-1024x768](https://user-images.githubusercontent.com/56091634/84692356-59b6d980-af63-11ea-9abb-8d6fdad17851.png)
+
+
 We have all been in situation where we go to a doctor in emergency and find that the consultation fees are too high. As a data scientist we all should do better. What if you have data that records important details about a doctor and you get to build a model to predict the doctor’s consulting fee.? This is the hackathon that lets you do that.
 
 
@@ -13,9 +17,7 @@ Miscellaeous_Info: Extra information about the doctor
 Fees: Fees charged by the doctor
 Place: Area and the city where the doctor is located.
 
-## Evaluation
-Metric
-Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the predicted value and observed score values. The final score calculation is done in the following way:
+## Evaluation Metric: Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the predicted value and observed score values. 
 Submissions are evaluated on Root-Mean-Squared-Log-Error (RMSLE) error = RMSLE (error)
 Score = 1 – error
 
