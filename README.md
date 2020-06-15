@@ -26,5 +26,10 @@ test.csv contains texts with some attributes for which the participants are expe
 ## Sample_submission.csv
 Sample_submission.csv contains the submission format for the prediction of the consultance fees in xlsx extension.
 
+## Rank: 140
+
+![consultance](https://user-images.githubusercontent.com/56091634/84692226-296f3b00-af63-11ea-92da-739204be0c21.png)
+
 ## Public Score : 0.71165330
+
 ## Local Score :  0.7234457451248648
